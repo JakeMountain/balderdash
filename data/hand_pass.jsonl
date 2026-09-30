@@ -118,7 +118,7 @@
 {"word": "permalock", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "hatfish", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "ungone", "keep": false, "category": null, "note": "needs a history lesson or niche label"}
-{"word": "ogtiern", "keep": false, "category": null, "note": "needs a history lesson or niche label"}
+{"word": "ogtiern", "keep": true, "sense": 0, "category": null, "note": "rechecked: absurdly specific, short"}
 {"word": "shellika", "keep": false, "category": null, "note": "dull or technical"}
 {"word": "knismolagnia", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "letteree", "keep": false, "category": null, "note": "needs a history lesson or niche label"}
@@ -371,7 +371,7 @@
 {"word": "midchomp", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "effable", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "peppier", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "binology", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "binology", "keep": true, "sense": 0, "category": null, "note": "rechecked: \"-ology\" points at the wrong genre; real meaning is a sleazy tabloid practice"}
 {"word": "tollie", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "newhalf", "keep": false, "category": null, "note": "slur or hateful"}
 {"word": "deaditor", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
@@ -381,7 +381,7 @@
 {"word": "grootslang", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "bellywark", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "febfem", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
-{"word": "charivari", "keep": false, "category": null, "note": "too well known"}
+{"word": "charivari", "keep": false, "category": null, "note": "same family as callithump; kept that one"}
 {"word": "squi", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "uniboob", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "merrilly", "keep": false, "category": null, "note": "weak, not funny or guessable"}
@@ -490,7 +490,7 @@
 {"word": "zitting", "keep": false, "category": null, "note": "dull or technical"}
 {"word": "soreage", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "frogsicle", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
-{"word": "shivaree", "keep": false, "category": null, "note": "same as charivari; too familiar"}
+{"word": "shivaree", "keep": false, "category": null, "note": "same family as callithump; kept that one"}
 {"word": "glawackus", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "merfur", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "exoscopy", "keep": false, "category": null, "note": "weak, not funny or guessable"}
@@ -1464,7 +1464,7 @@
 {"word": "dagbreker", "keep": false, "category": null, "note": "dull or technical"}
 {"word": "pugil", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "bodock", "keep": false, "category": null, "note": "dull or technical"}
-{"word": "bikeshedding", "keep": false, "category": null, "note": "too well known"}
+{"word": "bikeshedding", "keep": true, "sense": 0, "category": null, "note": "rechecked: only devs know it; literal reading is a good bluff"}
 {"word": "wartweed", "keep": false, "category": null, "note": "dull or technical"}
 {"word": "strokings", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "belashed", "keep": true, "sense": 0, "category": null, "note": null}
@@ -2171,7 +2171,7 @@
 {"word": "rammy", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "paedophage", "keep": false, "category": null, "note": "dull or technical"}
 {"word": "krubut", "keep": false, "category": null, "note": "dull or technical"}
-{"word": "grue", "keep": false, "category": null, "note": "dull or technical"}
+{"word": "grue", "keep": true, "sense": 1, "category": null, "note": "rechecked: play the Scots \"shiver\" sense; not widely known"}
 {"word": "metacercaria", "keep": false, "category": null, "note": "dull or technical"}
 {"word": "balao-balao", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "polysaprobic", "keep": false, "category": null, "note": "dull or technical"}
@@ -2403,7 +2403,7 @@
 {"word": "geekgasm", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "strumstrum", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "girby", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "callithump", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "callithump", "keep": true, "sense": 0, "category": null, "note": "rechecked: keeps one of charivari/shivaree/callithump; rarest"}
 {"word": "snoof", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "granfalloon", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "snipper-snaper", "keep": false, "category": null, "note": "weak, not funny or guessable"}
@@ -2897,7 +2897,7 @@
 {"word": "promdi", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "cowson", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "stocah", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "goliard", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "goliard", "keep": true, "sense": 0, "category": null, "note": "rechecked: shortens well to \"medieval wandering scholar known for ribald songs\""}
 {"word": "pilgarlic", "keep": true, "sense": 1, "category": null, "note": null}
 {"word": "hawbuck", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "lorette", "keep": false, "category": null, "note": "slur or hateful"}
@@ -2985,7 +2985,7 @@
 {"word": "freeaboo", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "farb", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "smatchet", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "bludger", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "bludger", "keep": true, "sense": 0, "category": null, "note": "rechecked: play loafer sense; slang unfamiliar to most groups"}
 {"word": "chawbacon", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "plonko", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "smellfungus", "keep": true, "sense": 0, "category": null, "note": null}
