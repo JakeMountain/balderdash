@@ -184,7 +184,7 @@
 {"word": "sexorcism", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "becocked", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "frogbutt", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
-{"word": "tinkerman", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "tinkerman", "keep": true, "sense": 0, "category": null, "note": "rechecked: misleading name, oddly specific job"}
 {"word": "quimp", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "chrysalism", "keep": true, "sense": 0, "category": null, "note": "misleading lovely sense"}
 {"word": "mayhole", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
@@ -1845,7 +1845,7 @@
 {"word": "vinnewed", "keep": false, "category": null, "note": "dull or technical"}
 {"word": "exspuition", "keep": false, "category": null, "note": "dull or technical"}
 {"word": "nigua", "keep": false, "category": null, "note": "dull or technical"}
-{"word": "balut", "keep": false, "category": null, "note": "dull or technical"}
+{"word": "balut", "keep": true, "sense": 0, "category": null, "note": "rechecked: gross, short, not widely known"}
 {"word": "suppurate", "keep": false, "category": null, "note": "dull or technical"}
 {"word": "pitchcapping", "keep": false, "category": null, "note": "too dark"}
 {"word": "osite", "keep": true, "sense": 0, "category": null, "note": null}
@@ -2974,7 +2974,7 @@
 {"word": "drevil", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "asswad", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "fobbit", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "mumu", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
+{"word": "mumu", "keep": true, "sense": 1, "category": null, "note": "rechecked: play the PNG pig-feast sense; name reads as an insult"}
 {"word": "quenchcoal", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "skabenga", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "gully-raker", "keep": true, "sense": 0, "category": null, "note": null}
@@ -3044,7 +3044,7 @@
 {"word": "flibbertigibbet", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "dimmock", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "bantling", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "scunner", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "scunner", "keep": true, "sense": 1, "category": null, "note": "rechecked: play \"strong dislike\"; reads as an insult"}
 {"word": "fuckwhistle", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "tinhorn", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "beetlebrain", "keep": true, "sense": 0, "category": null, "note": null}
