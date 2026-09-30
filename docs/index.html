@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Bluff Dictionary Viewer</title>
+<style>
+  :root {
+    --bg: #1d1a2f; --card: #2a2642; --ink: #f4efe6; --muted: #a39cbb; --accent: #ffb547; --accent-ink: #1d1a2f;
+    --line: #3b3659; --bar: #6fd08c; color-scheme: dark;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink);
+         font: 17px/1.45 ui-rounded, "SF Pro Rounded", system-ui, -apple-system, "Segoe UI", sans-serif; }
+  .app { max-width: 560px; margin: 0 auto; padding: 16px 16px calc(32px + env(safe-area-inset-bottom)); }
+  header { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 12px; }
+  .logo { font-weight: 800; color: var(--accent); }
+  .count { color: var(--muted); font-size: 14px; }
+  .filters { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 8px; margin-bottom: 16px; }
+  select { font: inherit; font-size: 15px; color: var(--ink); background: var(--card); border: 2px solid var(--line);
+           border-radius: 10px; padding: 8px 10px; width: 100%; }
+  .card { background: var(--card); border-radius: 18px; padding: 24px 20px; text-align: center; min-height: 180px;
+          display: flex; flex-direction: column; justify-content: center; }
+  .word { font-size: clamp(32px, 9vw, 46px); font-weight: 800; line-height: 1.1; word-break: break-word; }
+  .pos { color: var(--accent); font-style: italic; margin-top: 4px; }
+  .empty { color: var(--muted); }
+  .buttons { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 14px 0; }
+  button { font: inherit; font-weight: 700; border-radius: 12px; padding: 15px; cursor: pointer;
+           border: 2px solid var(--line); background: var(--card); color: var(--ink); }
+  button.primary { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+  button:disabled { opacity: 0.4; cursor: default; }
+  .reveal { background: var(--card); border-radius: 18px; padding: 18px 20px; }
+  .reveal[hidden] { display: none; }
+  .def { font-size: 20px; margin: 0 0 10px; }
+  .others { color: var(--muted); font-size: 15px; margin: 0 0 12px; padding-left: 18px; }
+  .note { border-left: 4px solid var(--accent); padding: 6px 10px; margin: 0 0 12px; font-size: 15px; }
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }
+  .chip { font-size: 13px; padding: 3px 10px; border-radius: 999px; background: var(--bg); border: 1px solid var(--line); }
+  .chip b { color: var(--accent); font-weight: 700; }
+  .scores { display: grid; grid-template-columns: auto 1fr auto; gap: 4px 10px; align-items: center; font-size: 14px; }
+  .scores .name { color: var(--muted); }
+  .scores .track { height: 8px; background: var(--bg); border-radius: 4px; overflow: hidden; }
+  .scores .fill { height: 100%; background: var(--bar); }
+  .scores .fill.warn { background: #ff7a7a; }
+  .scores .num { font-variant-numeric: tabular-nums; }
+  .scores .mine .name { color: var(--accent); font-weight: 700; }
+  .hint { color: var(--muted); font-size: 13px; text-align: center; margin-top: 18px; }
+</style>
+</head>
+<body>
+<div class="app">
+  <header><span class="logo">Bluff Dictionary</span><span class="count" id="count">loading…</span></header>
+  <div class="filters">
+    <select id="f-source" aria-label="Source"><option value="">All sources</option><option value="starter">Starter list</option><option value="pipeline">Pipeline</option></select>
+    <select id="f-bucket" aria-label="Bucket"><option value="">All buckets</option></select>
+    <select id="f-category" aria-label="Category"><option value="">All categories</option></select>
+    <select id="f-spice" aria-label="Spice"><option value="">Any spice</option><option>mild</option><option>cheeky</option><option>spicy</option></select>
+  </div>
+  <div class="card" id="card"><div class="empty">Press <b>New word</b> to start.</div></div>
+  <div class="buttons">
+    <button class="primary" id="next">New word</button>
+    <button id="show" disabled>Show definition</button>
+  </div>
+  <div class="reveal" id="reveal" hidden></div>
+  <p class="hint">Keys: <b>N</b> or space for a new word, <b>D</b> or Enter to show the definition.</p>
+</div>
+<script>
+const $ = (id) => document.getElementById(id);
+const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const label = (s) => String(s ?? "").replace(/_/g, " ");
+let all = [], deck = [], current = null;
+
+fetch("words.json").then((r) => r.json()).then((data) => {
+  all = data.words;
+  const fill = (id, key) => {
+    const vals = [...new Set(all.map((w) => w[key]).filter(Boolean))].sort();
+    $(id).insertAdjacentHTML("beforeend", vals.map((v) => `<option value="${esc(v)}">${esc(label(v))}</option>`).join(""));
+  };
+  fill("f-bucket", "bucket");
+  fill("f-category", "category");
+  for (const id of ["f-source", "f-bucket", "f-category", "f-spice"]) $(id).addEventListener("change", reshuffle);
+  reshuffle();
+}).catch(() => { $("count").textContent = "couldn't load words.json"; });
+
+function matches(w) {
+  const src = $("f-source").value;
+  if (src === "starter" && w.source !== "starter") return false;
+  if (src === "pipeline" && w.source === "starter") return false;
+  if ($("f-bucket").value && w.bucket !== $("f-bucket").value) return false;
+  if ($("f-category").value && w.category !== $("f-category").value) return false;
+  if ($("f-spice").value && w.spice !== $("f-spice").value) return false;
+  return true;
+}
+
+// A shuffled deck, so every matching word comes up once before any repeats.
+function reshuffle() {
+  deck = all.filter(matches);
+  for (let i = deck.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [deck[i], deck[j]] = [deck[j], deck[i]];
+  }
+  $("count").textContent = `${deck.length.toLocaleString()} of ${all.length.toLocaleString()} words`;
+}
+
+function next() {
+  if (!deck.length) reshuffle();
+  if (!deck.length) { $("card").innerHTML = '<div class="empty">No words match these filters.</div>'; return; }
+  current = deck.pop();
+  $("card").innerHTML = `<div class="word">${esc(current.word)}</div><div class="pos">${esc(current.pos)}</div>`;
+  $("reveal").hidden = true;
+  $("show").disabled = false;
+}
+
+function show() {
+  if (!current) return;
+  const w = current;
+  const chips = [
+    w.bucket && `bucket <b>${esc(label(w.bucket))}</b>`,
+    `category <b>${esc(label(w.category) || "none")}</b>`,
+    `spice <b>${esc(w.spice)}</b>`,
+    `source <b>${esc(w.source)}</b>`,
+    w.zipf !== undefined && `zipf <b>${w.zipf}</b>`,
+    ...(w.tags || []).map((t) => esc(t)),
+  ].filter(Boolean).map((c) => `<span class="chip">${c}</span>`).join("");
+  const bad = new Set(["familiar", "offensive", "sad", "boring"]);
+  const scores = Object.entries(w.scores || {}).map(([k, v]) =>
+    `<div class="${k === w.bucket ? "mine" : ""}" style="display:contents">
+       <span class="name">${esc(label(k))}</span>
+       <span class="track"><span class="fill ${bad.has(k) ? "warn" : ""}" style="width:${Math.round(v * 100)}%;display:block"></span></span>
+       <span class="num">${v.toFixed(2)}</span></div>`).join("");
+  $("reveal").innerHTML =
+    `<p class="def">${esc(w.definition)}</p>` +
+    (w.others.length ? `<ul class="others">${w.others.map((o) => `<li>${esc(o)}</li>`).join("")}</ul>` : "") +
+    (w.note ? `<p class="note">${esc(w.note)}</p>` : "") +
+    `<div class="chips">${chips}</div>` +
+    (scores ? `<div class="scores">${scores}</div>` : "");
+  $("reveal").hidden = false;
+  $("show").disabled = true;
+}
+
+$("next").addEventListener("click", next);
+$("show").addEventListener("click", show);
+document.addEventListener("keydown", (e) => {
+  if (e.target.tagName === "SELECT") return;
+  if (e.key === "n" || e.key === " ") { e.preventDefault(); next(); }
+  else if (e.key === "d" || e.key === "Enter") { e.preventDefault(); show(); }
+});
+</script>
+</body>
+</html>
