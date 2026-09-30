@@ -17,7 +17,7 @@ Run from `pipeline/`. Every Jev answer is cached in `cache/scores.sqlite`, so re
 | --- | --- | --- |
 | Pilot QC sample | `python pilot.py` | done |
 | Starter-list recall | `python recall.py` | done (73%) |
-| Score a sample | `python run_full.py --limit N` | 40,000 scored; resumable |
+| Score a sample | `python run_full.py --limit N` | 60,000 scored; resumable |
 | Cut candidates | `python selection.py` | thresholds in `thresholds.json` |
 | Late questions for old words | `python backfill.py` | then `run_full.py --no-backfill` |
 | Pick the sense to show | `python best_sense.py` | per-bucket question per definition |

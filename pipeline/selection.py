@@ -147,7 +147,7 @@ def main():
     ap.add_argument("--scored", default=None, help="default out/full/scored.jsonl (out/full-mock/ with --mock)")
     ap.add_argument("--thresholds", default=str(HERE / "thresholds.json"))
     ap.add_argument("--reject-at", type=float, default=0.5)
-    ap.add_argument("--target", type=int, default=2500, help="candidates to cut (overshoot for QC kills)")
+    ap.add_argument("--target", type=int, default=3500, help="candidates to cut; about 45% survive the hand pass")
     ap.add_argument("--seed", type=int, default=1)
     ap.add_argument("--out", default=str(HERE / "out"))
     ap.add_argument("--mock", action="store_true")
