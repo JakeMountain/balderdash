@@ -23,8 +23,9 @@ Run from `pipeline/`. Every Jev answer is cached in `cache/scores.sqlite`, so re
 | Pick the sense to show | `python best_sense.py` | per-bucket question per definition |
 | Viewer data | `python export_viewer.py` | writes `docs/words.json` |
 | Threshold review | `python review.py` | done; verdicts in `out/review/verdicts.jsonl` |
-| Rewrite | `rewrite.py` | next |
-| QC tool + export to `words.json` | | after rewrite |
+| Hand pass: keep/kill, pick the sense | see `pipeline/hand_pass.md` | next; writes `data/hand_pass.jsonl` |
+| Rewrite the keepers | `rewrite.py` | after the hand pass |
+| Export to `data/words.json` | | after rewrite |
 
 Decided:
 
@@ -33,9 +34,9 @@ Decided:
 - Spice tier: spicy if spicy ≥ 0.5; cheeky if cheeky or gross ≥ 0.5; otherwise mild. Spicy words are capped at 10% of the list; the hand pass judges how far is too far.
 - Fix a bad bucket by rewording its question, not by moving its threshold. Stop for review after the pilot, threshold, and final QC steps.
 
-## Rewrite (next)
+## Rewrite (after the hand pass)
 
-- **Input:** word, pos, source definitions verbatim with their dictionary, and Jev's `best_definition` index.
+- **Input:** the keepers only, each with its word, pos, source definitions verbatim, and the sense chosen in the hand pass.
 - **Output:** `definition` (at most 15 words, casual, lowercase start, no trailing period, restating only the source), `dealer_note` (source facts only, or null), two `decoys` (plausible fakes, not near the real meaning), and `archaic`.
 - **Grounding check:** one Jev request per rewrite, state `{word, part_of_speech, rewrite, source}`:
   - `grounded` Noul: "does `rewrite` mean the same as `source`?"
