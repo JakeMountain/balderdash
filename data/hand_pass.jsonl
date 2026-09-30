@@ -2282,7 +2282,7 @@
 {"word": "assward", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "wallydraigle", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "mubble-fubbles", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "smurgle", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "smurgle", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "prinpriddle", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "sockdologizing", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "footfucker", "keep": false, "category": null, "note": "only explicit, not funny"}
@@ -2292,7 +2292,7 @@
 {"word": "pissaphone", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "misguggle", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "dunkadoo", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "quonk", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "quonk", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "absquatulate", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "jirble", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "plonkee", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
@@ -2312,7 +2312,7 @@
 {"word": "diddledees", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "gazookus", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "kicksy-wicksy", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "fandabidozi", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "fandabidozi", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "hookum-snivey", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "bazodee", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "goshwowboyoboy", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
@@ -2330,14 +2330,14 @@
 {"word": "bummock", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "hankey-pankey", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "ackamarackus", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "goozoo", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "goozoo", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "wtfpwn", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "condiddle", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "skoosh", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "skoosh", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "squizzle", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "cocktard", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "tittytainment", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
-{"word": "diddle-dee", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "diddle-dee", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "flitterjigs", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "boobtacular", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "splatstick", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
@@ -2349,14 +2349,14 @@
 {"word": "bumboclaat", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "frumple", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "skedonk", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "wingdinger", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "wingdinger", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "shoegasm", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "whoobub", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "yoogle", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "fuckmuppet", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "philliloo", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "fizgigged", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "duang", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "duang", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "shitflation", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "fucktardery", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "blowbang", "keep": false, "category": null, "note": "only explicit, not funny"}
@@ -2377,7 +2377,7 @@
 {"word": "bullywug", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "dibbly-dobbler", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "wifty-wafty", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "kerflumixed", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "kerflumixed", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "fuckless", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "barneymugging", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "popskull", "keep": true, "sense": 0, "category": null, "note": null}
@@ -2389,28 +2389,28 @@
 {"word": "moeblob", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "cockamaroo", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "arseholery", "keep": false, "category": null, "note": "only explicit, not funny"}
-{"word": "bazonkers", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "bazonkers", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "flamadiddle", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "thrackscat", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "sniggle", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "friggle", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "shaboink", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "puggle", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "hornswoggle", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "widdly", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "hornswoggle", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
+{"word": "widdly", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "tooraloo", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "shpadoinkle", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "geekgasm", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "strumstrum", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "girby", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "callithump", "keep": true, "sense": 0, "category": null, "note": "rechecked: keeps one of charivari/shivaree/callithump; rarest"}
-{"word": "snoof", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "snoof", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "granfalloon", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "snipper-snaper", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "snipper-snaper", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "fubble", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "yabble", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "triccaballacca", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "flipperdinger", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "flipperdinger", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "pukewad", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "chungus", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "slommacky", "keep": true, "sense": 0, "category": null, "note": null}
@@ -2419,12 +2419,12 @@
 {"word": "pubertymaxx", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "shitstock", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "dickology", "keep": false, "category": null, "note": "only explicit, not funny"}
-{"word": "scootberry", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "scootberry", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "pirlicue", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "capeshit", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "metagrobolize", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "shemozzle", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "umbeclap", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "umbeclap", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "fimble-famble", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "rowdydow", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "blorp", "keep": false, "category": null, "note": "weak, not funny or guessable"}
@@ -2432,7 +2432,7 @@
 {"word": "cuntward", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "chinkerinchee", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "sposhy", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "bumpsadaisy", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "bumpsadaisy", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "popelote", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "booder", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "pincpinc", "keep": true, "sense": 0, "category": null, "note": null}
@@ -2447,7 +2447,7 @@
 {"word": "fuckathon", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "talkee-talkee", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "superspook", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "blort", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "blort", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "dickgirl", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "clitwad", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "frabbit", "keep": true, "sense": 0, "category": null, "note": null}
@@ -2465,12 +2465,12 @@
 {"word": "zoomie", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "tirralirra", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "zooter", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "lallygag", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "lallygag", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "skaggy", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "soopolallie", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "soopolallie", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "tarradiddle", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "cuntal", "keep": false, "category": null, "note": "only explicit, not funny"}
-{"word": "ratamacue", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "ratamacue", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "bipp", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "kookoom", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "gigelira", "keep": true, "sense": 0, "category": null, "note": null}
@@ -2492,36 +2492,36 @@
 {"word": "loonytarianism", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "twitsome", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "sturddlefish", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "lookee-likee", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "lookee-likee", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "rannygazoo", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "geekazoid", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "gawkhammer", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "misfuck", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "fligger", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "wheelsuck", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "wheelsuck", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "whuffle", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "lolwapa", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "lolwapa", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "boof", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "puntastic", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "clusterfuckery", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "niffler", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "willie-waught", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "kiddiewinkie", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "kiddiewinkie", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "sugartits", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "hotsy-totsy", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "auhuhu", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "auhuhu", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "dingbattery", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "wonga-wonga", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "kakabeak", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "kakabeak", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "pillaloo", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "jiggity", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "jiggity", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "diddley-eye", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "ziggety", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "ziggety", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "peetweet", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "cattimandoo", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "cattimandoo", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "hirdy-girdy", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "tiddledywinks", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "schemozzle", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "tiddledywinks", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
+{"word": "schemozzle", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "whomperjawed", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "fuckplug", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "snowmeow", "keep": false, "category": null, "note": "weak, not funny or guessable"}
@@ -2537,16 +2537,16 @@
 {"word": "bullshittism", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "hippopotamine", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "blooperball", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
-{"word": "fishify", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "fishify", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "gilravage", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "jimjam", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "jimjam", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "scrump", "keep": true, "sense": 1, "category": null, "note": null}
 {"word": "glomp", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "zorch", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
-{"word": "yuppity", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "yuppity", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "teeny-boppery", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "metagrobologist", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "bimmy", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "bimmy", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "dwaggy", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "pootle", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "metagrobolism", "keep": true, "sense": 0, "category": null, "note": null}
@@ -2554,17 +2554,17 @@
 {"word": "lerky", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "woylie", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "glimmer-gowk", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "funniment", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "funniment", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "gorcock", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "poggy", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "cowtastrophe", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "popjoying", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "taradiddle", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "werekitten", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
-{"word": "hoity-toitily", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "hoity-toitily", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "mugfaker", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "peenthrug", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "squibbish", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "squibbish", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "plerergate", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "putzy", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "fuckry", "keep": false, "category": null, "note": "only explicit, not funny"}
@@ -2591,21 +2591,21 @@
 {"word": "jigajig", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "gippity", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "creepmouse", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
-{"word": "coxcombry", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "coxcombry", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "dukey", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "moonack", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "spiflicate", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "snickle", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "dummymander", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "snool", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "faffle", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "faffle", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "whimple", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "trollsona", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "flumpet", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "seedlep", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "squig", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "genderfuck", "keep": false, "category": null, "note": "only explicit, not funny"}
-{"word": "hogswallop", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "hogswallop", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "bunnicorn", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "lolisho", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "muzzock", "keep": true, "sense": 0, "category": null, "note": null}
@@ -2615,9 +2615,9 @@
 {"word": "buttcheck", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "floogy", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "boogalee", "keep": false, "category": null, "note": "slur or hateful"}
-{"word": "gewgawry", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "gewgawry", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "yabbi", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
-{"word": "wankapin", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "wankapin", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "lucoddy", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "cluebie", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "shruff", "keep": true, "sense": 0, "category": null, "note": null}
@@ -2635,7 +2635,7 @@
 {"word": "woggin", "keep": false, "category": null, "note": "slur or hateful"}
 {"word": "ngege", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "hodmandod", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "tinkety-tonk", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "tinkety-tonk", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "adorabubble", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "squipper", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "slamsex", "keep": false, "category": null, "note": "only explicit, not funny"}
@@ -2650,10 +2650,10 @@
 {"word": "zotzed", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "jahoobies", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "cushlamachree", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "lummoxy", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "lummoxy", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "yadder", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "sketty", "keep": false, "category": null, "note": "slur or hateful"}
-{"word": "noodleism", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "noodleism", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "choadsucker", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "cockwad", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "wingwang", "keep": false, "category": null, "note": "only explicit, not funny"}
@@ -2670,12 +2670,12 @@
 {"word": "swaggerlicious", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "oojamaflip", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "figgy-dowdy", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "peeloo", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "doodly-squat", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "peeloo", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
+{"word": "doodly-squat", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "high-jimmy-knacker", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "jimber-jawed", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "phedinkus", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "havey-cavey", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "havey-cavey", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "sploot", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "hogan-mogan", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "greenery-yallery", "keep": true, "sense": 0, "category": null, "note": null}
@@ -2683,7 +2683,7 @@
 {"word": "bungham", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "fuckpad", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "yabba", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "hugger-mugger", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "hugger-mugger", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "mampus", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "loogaroo", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "funtabulous", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
@@ -2699,22 +2699,22 @@
 {"word": "gooly", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "namesclop", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "buttillary", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "harum-scarum", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "harum-scarum", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "foolfish", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "upscuddle", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "polewig", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "awefuckingsome", "keep": false, "category": null, "note": "only explicit, not funny"}
-{"word": "schmutter", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "schmutter", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "gytrash", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "phizog", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "moof", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "nidgery", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "roulroul", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "quequisque", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "quequisque", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "boonk", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "shmoo", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "snootitude", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "meshugaas", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "meshugaas", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "ahuruhuru", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "catbutt", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "whinnock", "keep": true, "sense": 0, "category": null, "note": null}
@@ -2727,9 +2727,9 @@
 {"word": "tewit", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "zootie", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "chorkie", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
-{"word": "spivvery", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "spivvery", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "wombly", "keep": false, "category": null, "note": "only explicit, not funny"}
-{"word": "veeblefetzer", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "veeblefetzer", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "clunge", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "boodie", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "thagomizer", "keep": true, "sense": 0, "category": null, "note": null}
@@ -2739,17 +2739,17 @@
 {"word": "cheeko", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "bepuddle", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "bazonga", "keep": false, "category": null, "note": "only explicit, not funny"}
-{"word": "jeezly", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "poochy", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "banjax", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "zatch", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "jeezly", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
+{"word": "poochy", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
+{"word": "banjax", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
+{"word": "zatch", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "pants-shittingly", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "blidget", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "mousefucker", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "bodalicious", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "fuckbot", "keep": false, "category": null, "note": "only explicit, not funny"}
-{"word": "kerflap", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "nutzoid", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "kerflap", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
+{"word": "nutzoid", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "cockbrained", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "bog-blitter", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "wigg", "keep": true, "sense": 0, "category": null, "note": null}
@@ -2772,7 +2772,7 @@
 {"word": "unbullshitable", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "backspang", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "jibbings", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "zookers", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "zookers", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "quobby", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "foutra", "keep": true, "sense": 0, "category": null, "note": "a fig as contempt"}
 {"word": "rumgumption", "keep": true, "sense": 0, "category": null, "note": null}
@@ -2780,22 +2780,22 @@
 {"word": "destinkify", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "strawpedo", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "weremonkey", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "brilliandeer", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "googie", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "brilliandeer", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
+{"word": "googie", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "koffie-moffie", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "bezzle", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "hedgehop", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "hedgehop", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "murgeon", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "blart", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "fuzzle", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "witwanton", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "chobble", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "scrimshank", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "defunkify", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "mudpuddle", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "scrimshank", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
+{"word": "defunkify", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
+{"word": "mudpuddle", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "bethwack", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "bumbaste", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "gekker", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "gekker", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "moffle", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "rummish", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "hoddy-peak", "keep": true, "sense": 0, "category": null, "note": "cuckold; funny old insult"}
@@ -2815,9 +2815,9 @@
 {"word": "fantard", "keep": false, "category": null, "note": "slur or hateful"}
 {"word": "taupie", "keep": false, "category": null, "note": "gendered insult"}
 {"word": "cittern-head", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "marasmatic", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "marasmatic", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "paskudnyak", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "saprophage", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "saprophage", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "baizuo", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "chuserel", "keep": false, "category": null, "note": "gendered insult"}
 {"word": "pantopragmatic", "keep": true, "sense": 0, "category": null, "note": null}
@@ -2856,7 +2856,7 @@
 {"word": "badaud", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "marketroid", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "nipfarthing", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "hidgeot", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "hidgeot", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "scaramouch", "keep": true, "sense": 0, "category": null, "note": "rechecked: not widely known (Jev familiar <=0.27, rare in wordfreq); shortens to boastful cowardly buffoon"}
 {"word": "cumper", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "flubdub", "keep": true, "sense": 0, "category": null, "note": null}
@@ -2866,8 +2866,8 @@
 {"word": "gobe-mouche", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "lapling", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "mammet", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "warb", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "kaypoh", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "warb", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
+{"word": "kaypoh", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "theorycel", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "shicer", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "cacafuego", "keep": true, "sense": 0, "category": null, "note": null}
@@ -2881,21 +2881,21 @@
 {"word": "cockapert", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "wankpuffin", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "punkling", "keep": false, "category": null, "note": "slur or hateful"}
-{"word": "pasquiler", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "pasquiler", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "scobe", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "rampallian", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "mieskeit", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "titivil", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "guffin", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "guffin", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "jibhead", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "phattu", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "phattu", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "cushion-smiter", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "tenterbelly", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "wondertard", "keep": false, "category": null, "note": "slur or hateful"}
 {"word": "bonkler", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "nidderling", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "promdi", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
-{"word": "cowson", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "cowson", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "stocah", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "goliard", "keep": true, "sense": 0, "category": null, "note": "rechecked: shortens well to \"medieval wandering scholar known for ribald songs\""}
 {"word": "pilgarlic", "keep": true, "sense": 1, "category": null, "note": null}
@@ -2909,18 +2909,18 @@
 {"word": "doryphore", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "gandermooner", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "yaud", "keep": false, "category": null, "note": "slur or hateful"}
-{"word": "rodomontadist", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "rodomontadist", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "daffock", "keep": false, "category": null, "note": "slur or hateful"}
 {"word": "lulzfag", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "measurebator", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "playgan", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
-{"word": "jinnet", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "jinnet", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "escortcel", "keep": false, "category": null, "note": "slur or hateful"}
 {"word": "smick", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "dotterel", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "kengster", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "kengster", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "bastich", "keep": false, "category": null, "note": "only explicit, not funny"}
-{"word": "dimbo", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "dimbo", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "fouter", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "verseman", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "pelicanist", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
@@ -2931,11 +2931,11 @@
 {"word": "caitiff", "keep": true, "sense": 0, "category": null, "note": "rechecked: not widely known (Jev familiar <=0.27, rare in wordfreq)"}
 {"word": "lexiphanic", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "cockwomble", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "nobber", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "nobber", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "rushbuckler", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "cheebai", "keep": false, "category": null, "note": "slur or hateful"}
 {"word": "hoiden", "keep": false, "category": null, "note": "slur or hateful"}
-{"word": "vaticide", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "vaticide", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "rat-licker", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "barstooler", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "geeksta", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
@@ -2948,9 +2948,9 @@
 {"word": "gigman", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "cogger", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "underfellow", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "theomicrist", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "theomicrist", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "gomere", "keep": false, "category": null, "note": "slur or hateful"}
-{"word": "mugu", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "mugu", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "josser", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "sourbelly", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "mameluke", "keep": false, "category": null, "note": "weak, not funny or guessable"}
@@ -2960,7 +2960,7 @@
 {"word": "upspring", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "tsotsi", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "spunktrumpet", "keep": false, "category": null, "note": "only explicit, not funny"}
-{"word": "trencher-man", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "trencher-man", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "chickenboner", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "sans-culotte", "keep": true, "sense": 0, "category": null, "note": "rechecked: not widely known (Jev familiar <=0.27, rare in wordfreq); \"fellow without breeches\""}
 {"word": "megahack", "keep": false, "category": null, "note": "weak, not funny or guessable"}
@@ -2969,7 +2969,7 @@
 {"word": "placeseeker", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "tradthot", "keep": false, "category": null, "note": "slur or hateful"}
 {"word": "gymcel", "keep": false, "category": null, "note": "slur or hateful"}
-{"word": "canaille", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "canaille", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "gowk", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "drevil", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "asswad", "keep": false, "category": null, "note": "only explicit, not funny"}
@@ -2999,11 +2999,11 @@
 {"word": "illywhacker", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "fartette", "keep": false, "category": null, "note": "slur or hateful"}
 {"word": "rubby-dub", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "detoother", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "rumhound", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "detoother", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
+{"word": "rumhound", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "radgepacket", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "catso", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "dubbo", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "dubbo", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "skygod", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "schmegeggy", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "countercaster", "keep": true, "sense": 0, "category": null, "note": null}
@@ -3016,15 +3016,15 @@
 {"word": "kaamchor", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "zoilus", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "gloomleader", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
-{"word": "winebibber", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "winebibber", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "geekwad", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "megadouche", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
-{"word": "gowl", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "gowl", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "gothamist", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "guffer", "keep": true, "sense": 0, "category": null, "note": "farter"}
 {"word": "gawpus", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "dobber", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "schlockmeister", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "schlockmeister", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "whiffler", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "womanthrope", "keep": false, "category": null, "note": "slur or hateful"}
 {"word": "campist", "keep": false, "category": null, "note": "slur or hateful"}
@@ -3039,14 +3039,14 @@
 {"word": "toolie", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "lootocrat", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "hamsick", "keep": false, "category": null, "note": "slur or hateful"}
-{"word": "ham-and-egger", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "ham-and-egger", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "ninnyhammer", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "flibbertigibbet", "keep": true, "sense": 0, "category": null, "note": "rechecked: not widely known (Jev familiar <=0.27, rare in wordfreq); good insult"}
-{"word": "dimmock", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "bantling", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "dimmock", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
+{"word": "bantling", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "scunner", "keep": true, "sense": 1, "category": null, "note": "rechecked: play \"strong dislike\"; reads as an insult"}
 {"word": "fuckwhistle", "keep": false, "category": null, "note": "only explicit, not funny"}
-{"word": "tinhorn", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "tinhorn", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "beetlebrain", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "motard", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "archfool", "keep": true, "sense": 0, "category": null, "note": null}
@@ -3056,7 +3056,7 @@
 {"word": "iqlet", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "goozer", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "psilosopher", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "jagoff", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "jagoff", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "mushrump", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "arseling", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "jawsmith", "keep": true, "sense": 0, "category": null, "note": null}
@@ -3067,38 +3067,38 @@
 {"word": "skintern", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "cyprian", "keep": false, "category": null, "note": "slur or hateful"}
 {"word": "latinitaster", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "smoocher", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "smoocher", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "hosebag", "keep": false, "category": null, "note": "slur or hateful"}
 {"word": "slipthrift", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "woolhat", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "woolhat", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "minda", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "nong", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "nong", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "smutmonger", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "fritlag", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "madbrain", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "dirtbird", "keep": false, "category": null, "note": "slur or hateful"}
 {"word": "nooblet", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
-{"word": "pettifogger", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "pettifogger", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "sapskull", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "ganef", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "ganef", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "wronghead", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "obliviot", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "lickpenny", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "gunfucker", "keep": false, "category": null, "note": "slur or hateful"}
 {"word": "oxhead", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "latrant", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "latrant", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "goldensprog", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "questmonger", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "sneckdraw", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "samseng", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "offscouring", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "offscouring", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "incroyable", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "tosspot", "keep": true, "sense": 2, "category": null, "note": "rechecked: not widely known (Jev familiar <=0.27, rare in wordfreq); play the drunkard sense"}
 {"word": "knavess", "keep": false, "category": null, "note": "slur or hateful"}
-{"word": "bawsin", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "bawsin", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "nowmun", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "modbeast", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
-{"word": "wedbreak", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "wedbreak", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "debatelord", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "ratfuck", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "conspiraboomer", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
@@ -3107,16 +3107,16 @@
 {"word": "twatwaffle", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "coomer", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "putz", "keep": false, "category": null, "note": "only explicit, not funny"}
-{"word": "diddler", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "diddler", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "gutlord", "keep": false, "category": null, "note": "slur or hateful"}
 {"word": "meatbot", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
-{"word": "jobster", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "jobster", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "mingebag", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "ouiaboo", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "saucebox", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "drollist", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "soaplock", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "scullion", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "soaplock", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
+{"word": "scullion", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "scattergood", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "beetlehead", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "carrytale", "keep": true, "sense": 0, "category": null, "note": null}
@@ -3128,21 +3128,21 @@
 {"word": "plinger", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "dumbfluencer", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "fireship", "keep": false, "category": null, "note": "slur or hateful"}
-{"word": "ward-heeler", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "kunjoos", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "ward-heeler", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
+{"word": "kunjoos", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "bostoon", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "nebbish", "keep": true, "sense": 0, "category": null, "note": "rechecked: not widely known (Jev familiar <=0.27, rare in wordfreq)"}
 {"word": "hallanshaker", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "shvantz", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "whoremaster", "keep": false, "category": null, "note": "slur or hateful"}
-{"word": "soor", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "soor", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "shlimazel", "keep": true, "sense": 0, "category": null, "note": "rechecked: not widely known (Jev familiar <=0.27, rare in wordfreq)"}
-{"word": "dosser", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "dosser", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "hambeast", "keep": false, "category": null, "note": "slur or hateful"}
 {"word": "wokel", "keep": false, "category": null, "note": "slur or hateful"}
-{"word": "boodler", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "boodler", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "fuckster", "keep": false, "category": null, "note": "only explicit, not funny"}
-{"word": "wordmonger", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "wordmonger", "keep": true, "sense": 0, "category": null, "note": "rechecked: sounds-funny/insult words are judged on the word, not on how dull the definition is"}
 {"word": "smeghead", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "ignorati", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "bsdk", "keep": false, "category": null, "note": "slur or hateful"}
