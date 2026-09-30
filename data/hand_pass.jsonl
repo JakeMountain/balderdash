@@ -437,7 +437,7 @@
 {"word": "stayship", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "bruncle", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "ringmail", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "googlewhack", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
+{"word": "googlewhack", "keep": true, "sense": 0, "category": null, "note": "rechecked: not widely known (Jev familiar <=0.27, rare in wordfreq)"}
 {"word": "auroraphobia", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "unlawed", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "trashline", "keep": true, "sense": 0, "category": null, "note": null}
@@ -568,7 +568,7 @@
 {"word": "hypergargalesthesia", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "gibship", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "beditation", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
-{"word": "octarine", "keep": false, "category": null, "note": "dull or technical"}
+{"word": "octarine", "keep": true, "sense": 0, "category": null, "note": "rechecked: not widely known (Jev familiar <=0.27, rare in wordfreq)"}
 {"word": "helionaut", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "finta", "keep": false, "category": null, "note": "dull or technical"}
 {"word": "viatical", "keep": false, "category": null, "note": "dull or technical"}
@@ -1655,7 +1655,7 @@
 {"word": "kippernut", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "proctuchous", "keep": false, "category": null, "note": "dull or technical"}
 {"word": "toxology", "keep": true, "sense": 0, "category": null, "note": "misleading; means archery"}
-{"word": "sweetbreads", "keep": false, "category": null, "note": "dull or technical"}
+{"word": "sweetbreads", "keep": true, "sense": 0, "category": null, "note": "rechecked: not widely known (Jev familiar <=0.27, rare in wordfreq); offal trap"}
 {"word": "comeronym", "keep": false, "category": null, "note": "dull or technical"}
 {"word": "brath", "keep": false, "category": null, "note": "dull or technical"}
 {"word": "rittock", "keep": false, "category": null, "note": "dull or technical"}
@@ -1850,14 +1850,14 @@
 {"word": "pitchcapping", "keep": false, "category": null, "note": "too dark"}
 {"word": "osite", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "spewsome", "keep": false, "category": null, "note": "dull or technical"}
-{"word": "midden", "keep": false, "category": null, "note": "dull or technical"}
+{"word": "midden", "keep": true, "sense": 0, "category": null, "note": "rechecked: not widely known (Jev familiar <=0.27, rare in wordfreq); gross"}
 {"word": "pungapung", "keep": false, "category": null, "note": "dull or technical"}
 {"word": "dysodile", "keep": false, "category": null, "note": "dull or technical"}
 {"word": "pigdan", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "assquake", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "enwallow", "keep": false, "category": null, "note": "dull or technical"}
 {"word": "suillage", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "effluvium", "keep": false, "category": null, "note": "dull or technical"}
+{"word": "effluvium", "keep": true, "sense": 0, "category": null, "note": "rechecked: not widely known (Jev familiar <=0.27, rare in wordfreq); gross"}
 {"word": "nidorous", "keep": false, "category": null, "note": "dull or technical"}
 {"word": "pituita", "keep": false, "category": null, "note": "dull or technical"}
 {"word": "sialorrhea", "keep": false, "category": null, "note": "dull or technical"}
@@ -1897,7 +1897,7 @@
 {"word": "viscerate", "keep": false, "category": null, "note": "dull or technical"}
 {"word": "ptyalize", "keep": false, "category": null, "note": "dull or technical"}
 {"word": "feculence", "keep": false, "category": null, "note": "dull or technical"}
-{"word": "bezoar", "keep": false, "category": null, "note": "dull or technical"}
+{"word": "bezoar", "keep": true, "sense": 0, "category": null, "note": "rechecked: not widely known (Jev familiar <=0.27, rare in wordfreq); gross"}
 {"word": "splatterpunk", "keep": false, "category": null, "note": "dull or technical"}
 {"word": "xanthopsydracia", "keep": false, "category": null, "note": "dull or technical"}
 {"word": "cacodorous", "keep": false, "category": null, "note": "dull or technical"}
@@ -2010,7 +2010,7 @@
 {"word": "dreul", "keep": false, "category": null, "note": "dull or technical"}
 {"word": "asslicky", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "rakshasa", "keep": false, "category": null, "note": "dull or technical"}
-{"word": "asafoetida", "keep": false, "category": null, "note": "dull or technical"}
+{"word": "asafoetida", "keep": true, "sense": 0, "category": null, "note": "rechecked: not widely known (Jev familiar <=0.27, rare in wordfreq)"}
 {"word": "whitlow", "keep": false, "category": null, "note": "dull or technical"}
 {"word": "buckish", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "puslike", "keep": false, "category": null, "note": "dull or technical"}
@@ -2021,11 +2021,11 @@
 {"word": "vomitive", "keep": false, "category": null, "note": "dull or technical"}
 {"word": "ambeer", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "lumbric", "keep": false, "category": null, "note": "dull or technical"}
-{"word": "frottage", "keep": false, "category": null, "note": "dull or technical"}
+{"word": "frottage", "keep": true, "sense": 1, "category": null, "note": "rechecked: not widely known (Jev familiar <=0.27, rare in wordfreq); play the art-technique sense: sounds dirty, isn't"}
 {"word": "grummel", "keep": false, "category": null, "note": "dull or technical"}
 {"word": "sputation", "keep": false, "category": null, "note": "dull or technical"}
 {"word": "elinguation", "keep": false, "category": null, "note": "too dark"}
-{"word": "flense", "keep": false, "category": null, "note": "dull or technical"}
+{"word": "flense", "keep": true, "sense": 0, "category": null, "note": "rechecked: not widely known (Jev familiar <=0.27, rare in wordfreq); gross verb"}
 {"word": "uncharnel", "keep": false, "category": null, "note": "dull or technical"}
 {"word": "oxyuriasis", "keep": false, "category": null, "note": "dull or technical"}
 {"word": "garderobe", "keep": true, "sense": 0, "category": null, "note": null}
@@ -2034,10 +2034,10 @@
 {"word": "turdlet", "keep": false, "category": null, "note": "dull or technical"}
 {"word": "macrohematuria", "keep": false, "category": null, "note": "dull or technical"}
 {"word": "cranioclast", "keep": false, "category": null, "note": "too dark"}
-{"word": "chitlings", "keep": false, "category": null, "note": "dull or technical"}
+{"word": "chitlings", "keep": true, "sense": 0, "category": null, "note": "rechecked: not widely known (Jev familiar <=0.27, rare in wordfreq); gross food"}
 {"word": "suckfest", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "hyperwet", "keep": false, "category": null, "note": "dull or technical"}
-{"word": "petai", "keep": false, "category": null, "note": "dull or technical"}
+{"word": "petai", "keep": true, "sense": 0, "category": null, "note": "rechecked: not widely known (Jev familiar <=0.27, rare in wordfreq)"}
 {"word": "sleepmarken", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "ponger", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "fumet", "keep": true, "sense": 0, "category": null, "note": null}
@@ -2851,13 +2851,13 @@
 {"word": "crumbum", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "blinkard", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "clenchpoop", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "nithing", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "nithing", "keep": true, "sense": 0, "category": null, "note": "rechecked: not widely known (Jev familiar <=0.27, rare in wordfreq)"}
 {"word": "fustilugs", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "badaud", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "marketroid", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "nipfarthing", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "hidgeot", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "scaramouch", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "scaramouch", "keep": true, "sense": 0, "category": null, "note": "rechecked: not widely known (Jev familiar <=0.27, rare in wordfreq); shortens to boastful cowardly buffoon"}
 {"word": "cumper", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "flubdub", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "slowback", "keep": true, "sense": 0, "category": null, "note": null}
@@ -2928,7 +2928,7 @@
 {"word": "jackwad", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "roughscuff", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "offendotron", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
-{"word": "caitiff", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "caitiff", "keep": true, "sense": 0, "category": null, "note": "rechecked: not widely known (Jev familiar <=0.27, rare in wordfreq)"}
 {"word": "lexiphanic", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "cockwomble", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "nobber", "keep": false, "category": null, "note": "weak, not funny or guessable"}
@@ -2962,7 +2962,7 @@
 {"word": "spunktrumpet", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "trencher-man", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "chickenboner", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
-{"word": "sans-culotte", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "sans-culotte", "keep": true, "sense": 0, "category": null, "note": "rechecked: not widely known (Jev familiar <=0.27, rare in wordfreq); \"fellow without breeches\""}
 {"word": "megahack", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "prickette", "keep": false, "category": null, "note": "slur or hateful"}
 {"word": "wagecuck", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
@@ -2973,7 +2973,7 @@
 {"word": "gowk", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "drevil", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "asswad", "keep": false, "category": null, "note": "only explicit, not funny"}
-{"word": "fobbit", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "fobbit", "keep": true, "sense": 0, "category": null, "note": "rechecked: not widely known (Jev familiar <=0.27, rare in wordfreq)"}
 {"word": "mumu", "keep": true, "sense": 1, "category": null, "note": "rechecked: play the PNG pig-feast sense; name reads as an insult"}
 {"word": "quenchcoal", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "skabenga", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
@@ -3034,14 +3034,14 @@
 {"word": "killcow", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "slummock", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "deather", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
-{"word": "panjandrum", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "panjandrum", "keep": true, "sense": 0, "category": null, "note": "rechecked: not widely known (Jev familiar <=0.27, rare in wordfreq); good insult"}
 {"word": "bardlet", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "toolie", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "lootocrat", "keep": false, "category": null, "note": "recent internet or fandom coinage"}
 {"word": "hamsick", "keep": false, "category": null, "note": "slur or hateful"}
 {"word": "ham-and-egger", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "ninnyhammer", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "flibbertigibbet", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "flibbertigibbet", "keep": true, "sense": 0, "category": null, "note": "rechecked: not widely known (Jev familiar <=0.27, rare in wordfreq); good insult"}
 {"word": "dimmock", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "bantling", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "scunner", "keep": true, "sense": 1, "category": null, "note": "rechecked: play \"strong dislike\"; reads as an insult"}
@@ -3093,7 +3093,7 @@
 {"word": "samseng", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "offscouring", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "incroyable", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "tosspot", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "tosspot", "keep": true, "sense": 2, "category": null, "note": "rechecked: not widely known (Jev familiar <=0.27, rare in wordfreq); play the drunkard sense"}
 {"word": "knavess", "keep": false, "category": null, "note": "slur or hateful"}
 {"word": "bawsin", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "nowmun", "keep": true, "sense": 0, "category": null, "note": null}
@@ -3131,12 +3131,12 @@
 {"word": "ward-heeler", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "kunjoos", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "bostoon", "keep": true, "sense": 0, "category": null, "note": null}
-{"word": "nebbish", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "nebbish", "keep": true, "sense": 0, "category": null, "note": "rechecked: not widely known (Jev familiar <=0.27, rare in wordfreq)"}
 {"word": "hallanshaker", "keep": true, "sense": 0, "category": null, "note": null}
 {"word": "shvantz", "keep": false, "category": null, "note": "only explicit, not funny"}
 {"word": "whoremaster", "keep": false, "category": null, "note": "slur or hateful"}
 {"word": "soor", "keep": false, "category": null, "note": "weak, not funny or guessable"}
-{"word": "shlimazel", "keep": false, "category": null, "note": "weak, not funny or guessable"}
+{"word": "shlimazel", "keep": true, "sense": 0, "category": null, "note": "rechecked: not widely known (Jev familiar <=0.27, rare in wordfreq)"}
 {"word": "dosser", "keep": false, "category": null, "note": "weak, not funny or guessable"}
 {"word": "hambeast", "keep": false, "category": null, "note": "slur or hateful"}
 {"word": "wokel", "keep": false, "category": null, "note": "slur or hateful"}
